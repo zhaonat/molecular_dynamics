@@ -2,7 +2,8 @@
 exploration of MD simulations in MATLAB
 
 # 2D Simulations
-practice for 3D, just want to get the basic idea of the Verlet integrator demonstrated
+practice for 3D, just want to get the basic idea of the Verlet integrator demonstrated.
+All the algorithms are implemented directly inside the script (instead of partitioned as functions) since they are not too complicated
 
 ![fig](sample_figures/2D_Autocorrelation_Plt_at_T=5.png?raw=true)
 
