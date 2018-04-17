@@ -5,7 +5,7 @@ exploration of MD simulations in MATLAB
 practice for 3D, just want to get the basic idea of the Verlet integrator demonstrated.
 
 ## simulations
-contains all the main scripts which can be directly run
+contains all the main scripts which can be directly run in the MATLAB window. <br>
 The main verlet algorithms are implemented directly inside the script (instead of partitioned as functions) since they are not too complicated
 
 ![fig](sample_figures/2D_Autocorrelation_Plt_at_T=5.png?raw=true)
